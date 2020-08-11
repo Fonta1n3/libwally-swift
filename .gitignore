@@ -30,7 +30,7 @@ xcuserdata
 .build/
 
 # Carthage
-Carthage/Build
+#Carthage/Build
 
 # Pre-action log file
 pre_action.log
